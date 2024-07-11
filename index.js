@@ -1,8 +1,4 @@
 // TO-DOs
-// Prompt to enter up to 3 characters
-// Prompt for text color
-// Prompt for shape (MUST have circle triangle and square)
-// Prompt for shape color
 // Should return an SVG file named logo.svg
 // Output text "Generated logo.svg" print in command line
 // When opened in browser show a 300x200 pixel image that matches criteria
@@ -25,5 +21,5 @@ inquirer.prompt([
 
 // Use what they entered to create the logo
     .then((response) => {
-        console.log(`${response.text}${response.textcolor}${response.shape}${response.color}`)
+        console.log(`${response.text} ${response.textcolor} ${response.shape} ${response.color}`)
     });
