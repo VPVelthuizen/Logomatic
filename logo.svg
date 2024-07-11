@@ -1,0 +1,4 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+            <polygon points="150,50 75,200 225,200" fill="red" />
+            <text x="150" y="175" text-anchor="middle" fill="white" font-size="50">SVG</text>
+        </svg>
