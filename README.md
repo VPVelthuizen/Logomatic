@@ -18,7 +18,7 @@ This application will create a logo for you based on your input.
 NodeJS must be installed, as well as the NPM packages Jest and Inquirer.
 
 ## Usage
-In order to use this application,. Here is a video demonstrating usage: [Check it out!](https://app.screencastify.com/v2/manage/videos/5zlKw0f2mtKGxVt7OrBB)
+In order to use this application,. Here is a video demonstrating usage: [Check it out!](https://app.screencastify.com/v2/manage/videos/OPXNjfNZ98GEyjpursSV)
 
 ## Contribution
 In order to contribute, please contact Vincent with the contact information listed at the bottom.
