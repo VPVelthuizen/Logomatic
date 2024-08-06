@@ -20,6 +20,13 @@ NodeJS must be installed, as well as the NPM packages Jest and Inquirer.
 ## Usage
 In order to use this application,. Here is a video demonstrating usage: [Check it out!](https://app.screencastify.com/v2/manage/videos/OPXNjfNZ98GEyjpursSV)
 
+Here are some sample images:
+
+![Sample 1](./examples/sample1.svg)
+![Sample 2](./examples/sample2.svg)
+![Sample 3](./examples/sample3.svg)
+
+
 ## Contribution
 In order to contribute, please contact Vincent with the contact information listed at the bottom.
 
